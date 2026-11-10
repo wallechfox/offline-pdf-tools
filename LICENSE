@@ -2,46 +2,62 @@
 License for XCPDF PDF Toolbox
 
 Copyright (c) 2026 相声的技术备忘录. 保留所有权利。 / All rights reserved.
-版本 1.1 ｜ 2026-11-06
+版本 1.2 ｜ 2026-11-10
 
 ────────────────────────────────────────
 一、允许 / Permitted
 
-个人可免费下载、运行本软件，用于非商业用途。
-You may download and run the Software free of charge for personal, non-commercial use.
+1. 免费下载、安装、使用本软件，包括个人使用与单位内部日常使用。
+   download, install and use the Software free of charge, for personal use and for ordinary internal use within an organization.
+2. 原样转发、转载、镜像、分发本软件（含网盘、论坛、应用商店），无需事先申请。
+   forward, repost, mirror and distribute the Software as-is (including via cloud drives, forums, or app stores), without prior permission.
 
-二、禁止 / Prohibited
+二、分发条件 / Conditions for redistribution
+
+分发须同时满足以下全部条件：
+Redistribution is permitted only if all of the following are met:
+
+1. 文件完整、未经任何修改；
+   the files are complete and unmodified;
+2. 保留全部版权声明、作者署名、版本标识与本协议全文；
+   all copyright notices, attribution, version identifiers and this Agreement are retained in full;
+3. 不收取任何费用，不与商业产品捆绑，不以本软件招揽付费服务；
+   no fee is charged, no bundling with commercial products, and no paid services are solicited by means of the Software;
+4. 明确注明软件来源与原作者的 GitHub 仓库地址。
+   the origin of the Software and the Author's GitHub repository are clearly stated.
+
+三、禁止 / Prohibited
 
 未经作者书面许可，不得：
 Without the Author's prior written permission, you may not:
 
-1. 复制、转载、镜像、再分发本软件或其任何部分（含网盘、论坛、应用商店）；
-   copy, repost, mirror, or redistribute the Software or any part of it (including cloud drives, forums, or app stores);
-2. 修改、反编译、反汇编、逆向工程，或制作衍生作品（法律允许的学习研究除外）；
-   modify, decompile, disassemble, reverse engineer, or create derivative works (except study and research permitted by law);
+1. 破解、反编译、反汇编、逆向工程，或去除、绕过混淆与技术保护措施（法律允许的学习研究除外）；
+   crack, decompile, disassemble, reverse engineer, or remove or circumvent the obfuscation and technical protection measures (except study and research permitted by law);
+2. 修改本软件或制作衍生作品，包括但不限于改名、换皮、增删功能、替换界面；
+   modify the Software or create derivative works, including but not limited to renaming, reskinning, adding or removing features, or replacing the interface;
 3. 去除、遮挡、篡改版权声明、作者署名、版本标识或许可声明；
    remove, obscure, or alter any copyright notice, attribution, version identifier, or license notice;
-4. 改名、换皮后以自己或他人名义发布，或声称系自己原创；
-   rebrand or repackage it and publish it under your own or another's name, or claim it as your own work;
-5. 用于商业用途，包括销售、捆绑、收费服务、企业内部生产使用；
-   use it for commercial purposes, including sale, bundling, paid services, or internal productive use by an organization;
+4. 以自己或他人名义发布修改版，或声称本软件系自己原创；
+   publish any modified version under your own or another's name, or claim the Software as your own work;
+5. 销售、出租、捆绑收费，或以其提供收费服务、计入商业交付物；
+   sell, rent, bundle for a fee, provide paid services with it, or include it in a commercial deliverable;
 6. 用于训练机器学习模型、构建竞争性产品或自动生成同类工具。
    use it to train machine learning models, build a competing product, or automatically generate similar tools.
 
-三、第三方组件 / Third-party components
+四、第三方组件 / Third-party components
 
 随附的 pdf.js（Apache License 2.0）、pdf-lib（MIT）、JSZip（MIT）、UTIF.js 与 pako（MIT）、Twemoji（CC-BY 4.0）遵循各自许可，不受本协议约束，版权归各自作者。
 Bundled components — pdf.js (Apache License 2.0), pdf-lib (MIT), JSZip (MIT), UTIF.js and pako (MIT), Twemoji (CC-BY 4.0) — remain under their respective licenses, are not governed by this Agreement, and are copyrighted by their respective authors.
 
-四、免责 / Disclaimer
+五、免责 / Disclaimer
 
 本软件按"现状"提供，不附带任何明示或默示的保证。因使用或无法使用本软件造成的损失，由使用者自行承担。软件完全离线运行，不收集、不上传任何数据。
 The Software is provided "AS IS", without any express or implied warranty. You assume all risk and liability arising from its use or inability to use it. The Software runs entirely offline and collects or uploads no data.
 
-五、商业授权 / Commercial licensing
+六、商业授权 / Commercial licensing
 
-商业使用、二次开发、企业内网部署，须与作者另行签订书面协议。
-Commercial use, secondary development, and enterprise intranet deployment require a separate written agreement with the Author.
+销售、出租、捆绑收费、以其提供收费服务，或把本软件并入商业交付物，须与作者另行签订书面协议。
+Selling, renting, bundling for a fee, providing paid services with the Software, or incorporating it into a commercial deliverable requires a separate written agreement with the Author.
 
 ────────────────────────────────────────
 说明 / Note：本协议不是开源许可。 / This is not an open-source license.
