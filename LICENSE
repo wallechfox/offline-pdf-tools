@@ -2,7 +2,8 @@
 License for XCPDF PDF Toolbox
 
 Copyright (c) 2026 相声的技术备忘录. 保留所有权利。 / All rights reserved.
-版本 1.2 ｜ 2026-11-10
+版本 1.3 ｜ 2026-11-19
+Version 1.3 | 2026-11-19
 
 ────────────────────────────────────────
 一、允许 / Permitted
@@ -19,12 +20,8 @@ Redistribution is permitted only if all of the following are met:
 
 1. 文件完整、未经任何修改；
    the files are complete and unmodified;
-2. 保留全部版权声明、作者署名、版本标识与本协议全文；
-   all copyright notices, attribution, version identifiers and this Agreement are retained in full;
-3. 不收取任何费用，不与商业产品捆绑，不以本软件招揽付费服务；
+2. 不收取任何费用，不与商业产品捆绑，不以本软件招揽付费服务；
    no fee is charged, no bundling with commercial products, and no paid services are solicited by means of the Software;
-4. 明确注明软件来源与原作者的 GitHub 仓库地址。
-   the origin of the Software and the Author's GitHub repository are clearly stated.
 
 三、禁止 / Prohibited
 
@@ -43,7 +40,6 @@ Without the Author's prior written permission, you may not:
    sell, rent, bundle for a fee, provide paid services with it, or include it in a commercial deliverable;
 6. 用于训练机器学习模型、构建竞争性产品或自动生成同类工具。
    use it to train machine learning models, build a competing product, or automatically generate similar tools.
-
 四、第三方组件 / Third-party components
 
 随附的 pdf.js（Apache License 2.0）、pdf-lib（MIT）、JSZip（MIT）、UTIF.js 与 pako（MIT）、Twemoji（CC-BY 4.0）遵循各自许可，不受本协议约束，版权归各自作者。
